@@ -12,6 +12,7 @@ The dataset use for this analysis was an Excel file shared for the Intern-Pulse 
 
 ### Data cleaning/Preparation
 1. Data loading and Inspection
+
 2. Removing Duplicates
 3. Data cleaning and formatting
 
@@ -25,6 +26,8 @@ The analysis was conducted using Excel, summarizing key metrics and trends withi
 6.	Customer Segmentation
    
    ###Dashboard
+   ![Ecommerce Dashboard](https://github.com/user-attachments/assets/da1bb532-fd83-48bf-98be-4f0915ee776b)
+   
 
 ### Key Findings and Insights
 2.1 Retention Rate Analysis
