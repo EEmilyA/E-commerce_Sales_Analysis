@@ -10,7 +10,7 @@ The dataset use for this analysis was an Excel file shared for the Intern-Pulse 
 - Excel - this was use primary for the analysis for clearing and creating dashboard
 - ChatGPT- Mainly to assist with report writing, insights and further reccommendations.
 
-### Data claening/Preparation
+### Data cleaning/Preparation
 1. Data loading and Inspection
 2. Removing Duplicates
 3. Data cleaning and formatting
@@ -23,6 +23,8 @@ The analysis was conducted using Excel, summarizing key metrics and trends withi
 4.	Delivery and Sales Relationship
 5.	Shipping Type vs. Delivery Performance
 6.	Customer Segmentation
+   
+   ###Dashboard
 
 ### Key Findings and Insights
 2.1 Retention Rate Analysis
