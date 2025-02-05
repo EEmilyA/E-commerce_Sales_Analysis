@@ -54,8 +54,7 @@ The analysis of shipping types versus delivery status helps us understand the im
   
 #### Seasonal Sales Trend
 The seasonal trend analysis shows how sales fluctuate over the years.
-- Sales have grown significantly since 2015
-2015 saw sales of $405,719, 2021 and 2022 had substantial growth, with sales reaching $11,631,365 and $11,534,723, respectively.
+- 2015 saw significant growth sales of $405,719, 2021 and 2022 had substantial growth, with sales reaching $11,631,365 and $11,534,723, respectively.
 - This indicates a significant upward trend in sales over the years, especially in recent years (2021-2022), likely due to increased demand, effective marketing strategies, or external factors like the pandemic.
    
 #### Regional Performance Analysis
